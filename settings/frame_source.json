@@ -1,0 +1,10 @@
+{
+    "frame_source_id" : 0,
+
+    "video":
+    {
+        "path" : "/home/artem/Datasets/IMG_1007.MOV",
+        "fps" : 25,
+        "repeat" : false
+    }
+}
